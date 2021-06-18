@@ -1,0 +1,11 @@
+{
+  "name": "curso-fundamentos-node",
+  "version": "1.0.0",
+  "description": "Ejercicios del curso fundamentos de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniela Alonzo <dann_ixchel@outlook.es>",
+  "license": "ISC"
+}
